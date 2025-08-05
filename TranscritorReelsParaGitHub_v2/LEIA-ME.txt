@@ -1,0 +1,20 @@
+✅ COMO USAR O APP TRANSCRITOR DE REELS
+
+1. Certifique-se de ter o Python 3.10 instalado.
+
+2. Abra o Terminal e vá até a pasta:
+   cd ~/Downloads/TranscritorReelsClean
+
+3. Crie o ambiente virtual:
+   python3.10 -m venv venv
+
+4. Ative o ambiente:
+   source venv/bin/activate
+
+5. Instale as dependências:
+   pip install -r requirements.txt
+
+6. Rode o app:
+   ./iniciar_app.sh
+
+Ele abrirá no seu navegador. Pronto para colar links de Reels!

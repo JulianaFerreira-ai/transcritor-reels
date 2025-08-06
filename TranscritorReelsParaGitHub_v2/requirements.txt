@@ -4,3 +4,4 @@ openai-whisper
 moviepy
 imageio-ffmpeg
 moviepy
+add moviepy to requirements
